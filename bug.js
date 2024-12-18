@@ -1,0 +1,1 @@
+This error occurs when you try to use a variable that hasn't been declared or initialized.  This is common when dealing with asynchronous operations where the data might not be available when you expect it.
